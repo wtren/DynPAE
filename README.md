@@ -1,1 +1,1 @@
-# Code, Scripts, Data, and Figures for the DynPAE Paper
+# Scripts for the DynPAE Paper
